@@ -1,0 +1,24 @@
+/* CSS STYLE */
+
+.odd {
+
+    background-color: rgb(255, 131, 131);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#second {
+
+    color: blue;
+    font-size: 36px;
+}
+
+.vintequatro{
+
+    font-size: 24px;
+}
+
+#fourth {
+
+    background-color: rgb(139, 255, 139);
+    font-weight: bold;
+}
